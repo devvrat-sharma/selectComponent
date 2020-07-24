@@ -1,0 +1,17 @@
+{
+  "name": "selectComponent",
+  "displayName": "selectComponent",
+  "expo": {
+    "name": "selectComponent",
+    "slug": "selectComponent",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
